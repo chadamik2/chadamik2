@@ -6,14 +6,14 @@
 ## 💻 About Me
 Computer Science student at the Higher School of Economics, Moscow  🇷🇺.  
 Math tutor.
-Interested in Data Analysis, Machine Learning, NLP, and Software Development.  
+Interested in Data Analysis, Machine Learning, NLP, Computer Vision and Software Development.  
 
 ---
 
 ## 🧠 Skills
 **Programming Languages:** Python, C#, C++  
-**Libraries & Tools:** NumPy, Pandas, scikit-learn, SQL  
-**ML & Analytics:** Machine Learning, Data Processing, Statistical Analysis  
+**Libraries & Tools:** NumPy, Pandas, scikit-learn, SQL, Pytorch  
+**ML & Analytics:** Machine Learning, Data Processing, Statistical Analysis, Computer Vision
 
 ---
 
@@ -54,4 +54,4 @@ Fully completed the Algorithms course with detailed Jupyter Notebook solutions.
 ---
 
 ## 🎯 Interests
-Data Analytics • Machine Learning • NLP • Software Development  
+Data Analytics • Machine Learning • NLP • Computer Vision • Software Development
