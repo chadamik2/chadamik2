@@ -32,8 +32,12 @@ descriptive statistics, correlations, clustering, time series analysis, and web 
 
 ---
 
+### [HSE Bank system](https://github.com/chadamik2/software_design_HW2)
+Developed a Python-based system prototype for managing bank operations. I modeled the domain of financial accounting, observing SOLID and GRASP, applying GoF patterns, using a DI container, using an SQLite database
+
+---
 ### [ERP System for the Zoo](https://github.com/chadamik2/software_design_HW1)
-Developed a Python-based ERP system prototype for managing zoo operations and employee tasks.
+Developed a Python-based ERP system prototype for managing zoo operations and employee tasks, following the SOLID principles and using a DI container
 
 ---
 
