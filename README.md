@@ -26,6 +26,16 @@ Performed EDA, preprocessing, hyperparameter tuning, and feature importance anal
 
 ---
 
+### [ByteHack 2025 Hackathon](https://github.com/chadamik2/hack)
+Have developed, together with my team-mate, an end-to-end web system for predicting
+spontaneous combustion of coal piles: backend on FastAPI + SQLite, frontend on React,
+integration via REST API.
+Built an ML model (CatBoost) for regression (fire date) and binary classification
+(risk of fire in the next 7 days), prepared a complete feature-engineering pipeline
+based on historical warehouse data, weather and temperature in stacks.
+
+---
+
 ### [Data Analysis in Python](https://github.com/chadamik2/data_analysis_learning)
 Coursework on data analysis:  
 descriptive statistics, correlations, clustering, time series analysis, and web data collection.
