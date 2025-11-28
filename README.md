@@ -62,6 +62,7 @@ Fully completed the Algorithms course with detailed Jupyter Notebook solutions.
 ---
 
 ## 🏆 Achievements
+- III place of ByteHack 2025 Hackathon
 - Prize-winner of St. Petersburg State University Mathematics Olympiad (Level 1)  
 - Prize-winner of “Lomonosov” Mathematics Olympiad (Level 1)
 
